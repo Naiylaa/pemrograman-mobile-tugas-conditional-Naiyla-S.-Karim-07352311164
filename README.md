@@ -22,11 +22,9 @@ Jadi, program mengubah skor angka menjadi nilai hurud (A-E) dengan aturan yang s
    git clone https://github.com/Naiylaa/pemrograman-mobile-tugas-conditional-Naiyla-S.-Karim-07352311164.git
 
 4. Masuk ke folder project:
-   cd pemrograman-mobile-tugas-conditional-Naiyla S. Karim-07352311164
-5. Masuk ke folder src:
-   cd src
+   cd /d/kuliah/"pemrograman-mobile-tugas-conditional-Naiyla S. Karim-07352311164"
 
-6. Jalankan program dengan perintah:
-   dart tugas.dart
+5. Jalankan program dengan perintah:
+  dart src/tugas.dart
 
-    Program akan menampilkan hasil perhitungan gaji karyawan di terminal.
+
